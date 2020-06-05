@@ -1,0 +1,13 @@
+plugins{
+	id "java"
+}
+
+javadoc.optins.encoding = 'UTF-8'
+compileJava.optins.encoding= 'UTF-8'
+
+repositories{
+	mavenCentral()
+}
+dependecies{
+	testImplementation 'junit:junit:4.+'
+}
