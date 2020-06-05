@@ -2,8 +2,8 @@ plugins{
 	id "java"
 }
 
-javadoc.optins.encoding = 'UTF-8'
-compileJava.optins.encoding= 'UTF-8'
+javadoc.options.encoding='UTF-8'
+compileJava.optins.encoding='UTF-8'
 
 repositories{
 	mavenCentral()
