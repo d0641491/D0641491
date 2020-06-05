@@ -3,7 +3,7 @@ plugins{
 }
 
 javadoc.options.encoding='UTF-8'
-compileJava.optins.encoding='UTF-8'
+compileJava.options.encoding='UTF-8'
 
 repositories{
 	mavenCentral()
