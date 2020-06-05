@@ -8,6 +8,6 @@ compileJava.options.encoding='UTF-8'
 repositories{
 	mavenCentral()
 }
-dependecies{
+dependencies{
 	testImplementation 'junit:junit:4.+'
 }
